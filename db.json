@@ -46,15 +46,15 @@
             "maxSalary": 60000,
             "tags": [
                 {
-                    "id": "1",
+                    "id": "4",
                     "name": "Reactjs"
                 },
                 {
-                    "id": "2",
+                    "id": "5",
                     "name": "Graphql"
                 },
                 {
-                    "id": "3",
+                    "id": "6",
                     "name": "React Native"
                 }
             ],
@@ -65,6 +65,32 @@
                 "website": "http://google.com",
                 "email": "hello2@gmail.com"
             }
+        }
+    ],
+    "tags": [
+        {
+            "id": "1",
+            "name": "Nodejs"
+        },
+        {
+            "id": "2",
+            "name": "Typescript"
+        },
+        {
+            "id": "3",
+            "name": "Mongodb"
+        },
+        {
+            "id": "4",
+            "name": "Reactjs"
+        },
+        {
+            "id": "5",
+            "name": "Graphql"
+        },
+        {
+            "id": "6",
+            "name": "React Native"
         }
     ]
 }
