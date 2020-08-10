@@ -1,96 +1,98 @@
 {
-    "jobs": [
+  "jobs": [
+    {
+      "id": "1",
+      "dateCreated": "2020-07-23",
+      "title": "Junior Backend Engineer for E-Commerce Agency [Nodejs, Express]",
+      "description": "My name is Xavier Armand and I am the co-founder of The Vaan Group (www.vaangroup.com): A fully remote UX design and engineering agency with headquarters in NYC. So we build it. Our technology becomes the foundation upon which businesses scale their operations, escalate their marketing efforts and grow their sales. Most of the time we're building e-commerce engines. Other times we're architecting software. It's always all digital.\n\nOur clients range from large e-commerce enterprises (>$100M per year) to successful mid-stage ($1M - $40M per year) direct to consumer e-commerce brands. You can see the full range client work/portfolio at our website.\n\n### Culture\nWe’re a realistic group, not looking for rockstar ninja wizards. Our team resides (or is working from) New York City, Warsaw, Lisbon, The Netherlands, Brazil, Dominican Republic, and Norway. We do regular team meets up all over the world (or we did before Covid).\n\nWe're looking for an experienced backend engineer to join our team. Typical work would include:\n\nBuilding custom applications for eCommerce stores doing $3M-$50M per year\nWorking with and building GraphQL APIs\nBuilding custom admin panels for Shopify A perfect candidate has well-formed opinions, great discipline, naturally established work habits, and takes delight in their work.\nA great quote about what we're looking for from people who have been managing remote teams longer than us:\n\n\"Everyone has to be an A-player. Remote team members are used to four to six hours of focused, uninterrupted work every day. You have to be able to get through problems on your own and be productive without asking for help. There’s no substitute for skill and experience in those cases.\"\n\nWe have specific work to be done so can hire quickly. Shopify experience optional but a plus!\n\n### Location\nThis is a fully remote position with frequent travel to the HQ, located in Brussels.",
+      "jobType": 10,
+      "companyHQLocation": "San Francisco, USA",
+      "candidateLocation": "California",
+      "offersRemote": true,
+      "applyLinkOrEmail": "https://remotive.io/remote-jobs/software-dev/node-js-backend-developer-241344",
+      "maxSalary": 40000,
+      "tags": [
         {
-            "id": "1",
-            "dateCreated": "2020-07-23",
-            "title": "Junior Backend Engineer for E-Commerce Agency [Nodejs, Express]",
-            "description": "Hi there! First and foremost, I hope you're well in the face of coronavirus. That said, let's make this personal. My name is Xavier Armand and I am the co-founder of The Vaan Group (www.vaangroup.com): a fully remote UX design and engineering agency with headquarters in NYC. We’re looking to hire a backend engineer to work on e-commerce projects. We're specifically looking for someone with PHP and Laravel background and experience. Big plus if you've got experience with applications using Laravel + GraphQL\n\nWe believe awesome technology powers the best brands. So we build it. Our technology becomes the foundation upon which businesses scale their operations, escalate their marketing efforts and grow their sales. Most of the time we're building e-commerce engines. Other times we're architecting software. It's always all digital.\n\nOur clients range from large e-commerce enterprises (>$100M per year) to successful mid-stage ($1M - $40M per year) direct to consumer e-commerce brands. You can see the full range client work/portfolio at our website.\n\n### Culture\nWe’re a realistic group, not looking for rockstar ninja wizards. Our team resides (or is working from) New York City, Warsaw, Lisbon, The Netherlands, Brazil, Dominican Republic, and Norway. We do regular team meets up all over the world (or we did before Covid).\n\nWe're looking for an experienced backend engineer to join our team. Typical work would include:\n\nBuilding custom applications for eCommerce stores doing $3M-$50M per year\nWorking with and building GraphQL APIs\nBuilding custom admin panels for Shopify A perfect candidate has well-formed opinions, great discipline, naturally established work habits, and takes delight in their work.\nA great quote about what we're looking for from people who have been managing remote teams longer than us:\n\n\"Everyone has to be an A-player. Remote team members are used to four to six hours of focused, uninterrupted work every day. You have to be able to get through problems on your own and be productive without asking for help. There’s no substitute for skill and experience in those cases.\"\n\nWe have specific work to be done so can hire quickly. Shopify experience optional but a plus!\n\n### Location\nThis is a fully remote position with frequent travel to the HQ, located in Brussels. We expect you to be based in Europe or at least in the same time zone.",
-            "jobType": 10,
-            "companyHQLocation": "San Francisco, USA",
-            "candidateLocation": "California",
-            "offersRemote": true,
-            "applyLinkOrEmail": "https://remotive.io/remote-jobs/software-dev/node-js-backend-developer-241344",
-            "maxSalary": 40000,
-            "tags": [
-                {
-                    "id": "1",
-                    "name": "Nodejs"
-                },
-                {
-                    "id": "2",
-                    "name": "Typescript"
-                },
-                {
-                    "id": "3",
-                    "name": "Mongodb"
-                }
-            ],
-            "featureType": 10,
-            "company": {
-                "name": "The Van Group",
-                "logo": "http://localhost:3000/static/media/fakelogo-1.67c90566.png",
-                "website": "http://stackoverflow.com",
-                "email": "hello@gmail.com"
-            }
+          "id": "1",
+          "name": "Nodejs"
         },
         {
-            "id": "2",
-            "dateCreated": "2020-07-24",
-            "title": "Senior Frontend Engineer",
-            "description": "Hi, we're **Knack**, a no-code platform used by thousands of customers — from non-profits to the world’s biggest companies — to easily build custom apps, workflows, and databases.\n\nWe're looking for a nice and brilliant front-end engineer to help us meet the enormous challenges around making it easy to do useful things with data. \n\nThis is a 100% remote role, with a flat culture that gives you the autonomy to define how you can do the best work of your career.\n\n**In this role, you will:**\nWork with Vue and ES6 to build and maintain Knack product features.\nImprove and implement UI through design libraries, accessible markup, and modular CSS.\nPropose and implement architectural approaches for new features and refactoring legacy code.\nImprove the quality and confidence of a complex codebase with tests, audits, and performance metrics.\nCode every day. Although we expect technical and product leadership, this is primarily an executional role.\nBe an inspiring and supportive teammate by participating in PR reviews, pair programming, active feedback, idea generation, teaching, learning, and in general being a delightful human being.\n\n**We’re looking for someone who is:**\nA problem solver. You aren't afraid to go deep, experiment, learn on the fly, and do the work.\nExperienced as a meaningful contributor to a complex front-end architecture at scale.\nAn expert in JavaScript and modern reactive frameworks: preferably Vue, or a desire to leverage React experience to master Vue.\nHumble but opinionated. You have lots of ideas, yet you are happy to shift directions when a better path emerges. You take your work much more seriously than you take yourself.\nProactive and flexible. We're early in our process of building out this team and process. We need someone willing to use the best of their experience to advocate for best practices, but  also open to embracing a bit of chaos along the way.\nAn active collaborator. You want feedback on your work early and often, and you get a kick out of a collaborative process because it challenges you to do better work.\nEngaging beyond 1s and 0s. You understand that empathizing with our customers, building relationships with your co-workers, and going deep on the product makes you a better teammate and a better engineer.\nHungry for meaningful work, and space to do it. Knack is a complex product in a complex space and the work is extremely challenging - but also deeply rewarding. Knack makes a major impact in the work of thousands of companies and organizations.\n\n**Our Stack**\n1. Front-end: *ES6, Vue, Vuex, Vue Router, Webpack*\n2. Components & Design: *Storybook, Atomic design, Saas, Post CSS, CSS Modules*\n3. Testing: *Mocha Unit Tests, Cypress.js, Ghost Inspector*\n4. Back-end: *Node.js, Mongo, SQL, Redis, AWS*\n\n**About Knack**\nKnack makes it easy for anyone to build applications and workflows to make their data useful. Our customers use Knack to run their processes, departments, or even their entire companies.\n\n> We've been growing steadily since 2012 as we’ve built our team, perfected our product, and nailed our product-market fit.\n\n**So how are we different?**\nWe’re bootstrapped: we’ve had to build something our customers actually pay for. This changes how you do things.\nWe’re 100% remote: and have been from the beginning. Every decision we’ve made has been based around optimizing our remote operations.\nWe’re all a little weird: and we like it that way. We’re more than just chat avatars; we’ve all gotten to know each other, have grown together, and love working with each other.\nWe enjoy the journey: we’re in this for the long haul. We’re not chasing an exit or the next round of funding. We’re building something we’re proud of and want to keep improving on.\n\n**Learn More**\n* [About this role](https://knack.com/careers/frontend-engineer)\n* About our work culture\n* About Knack",
-            "jobType": 20,
-            "companyHQLocation": "San Francisco, USA",
-            "candidateLocation": "Worldwide",
-            "offersRemote": true,
-            "applyLinkOrEmail": "https://remotive.io/remote-jobs/software-dev/node-js-backend-developer-241344",
-            "maxSalary": 60000,
-            "tags": [
-                {
-                    "id": "4",
-                    "name": "Reactjs"
-                },
-                {
-                    "id": "5",
-                    "name": "Graphql"
-                },
-                {
-                    "id": "6",
-                    "name": "React Native"
-                }
-            ],
-            "featureType": 20,
-            "company": {
-                "name": "Knack",
-                "logo": "http://localhost:3000/static/media/fakelogo-2.bb26ffca.png",
-                "website": "http://google.com",
-                "email": "hello2@gmail.com"
-            }
+          "id": "2",
+          "name": "Typescript"
+        },
+        {
+          "id": "3",
+          "name": "Mongodb"
         }
-    ],
-    "tags": [
+      ],
+      "featureType": 10,
+      "company": {
+        "name": "The Van Group",
+        "logo": "http://localhost:3000/static/media/fakelogo-1.67c90566.png",
+        "website": "http://stackoverflow.com",
+        "email": "hello@gmail.com",
+        "description": "We’re looking to hire a backend engineer to work on e-commerce projects. We're specifically looking for someone with PHP and Laravel background and experience. Big plus if you've got experience with applications using Laravel + GraphQL\n\nWe believe awesome technology powers the best brands.  We expect you to be based in Europe or at least in the same time zone."
+      }
+    },
+    {
+      "id": "2",
+      "dateCreated": "2020-07-24",
+      "title": "Senior Frontend Engineer",
+      "description": "Hi, we're **Knack**, a no-code platform used by thousands of customers — from non-profits to the world’s biggest companies — to easily build custom apps, workflows, and databases. \n\nOur customers use Knack to run their processes, departments, or even their entire companies.\n\n> We've been growing steadily since 2012 as we’ve built our team, perfected our product, and nailed our product-market fit.\n\n**So how are we different?**\nWe’re bootstrapped: we’ve had to build something our customers actually pay for. This changes how you do things.\nWe’re 100% remote: and have been from the beginning. Every decision we’ve made has been based around optimizing our remote operations.\nWe’re all a little weird: and we like it that way. We’re more than just chat avatars; we’ve all gotten to know each other, have grown together, and love working with each other.\nWe enjoy the journey: we’re in this for the long haul. We’re not chasing an exit or the next round of funding. We’re building something we’re proud of and want to keep improving on.\n\n**Learn More**\n* [About this role](https://knack.com/careers/frontend-engineer)\n* About our work culture\n* About Knack",
+      "jobType": 20,
+      "companyHQLocation": "San Francisco, USA",
+      "candidateLocation": "Worldwide",
+      "offersRemote": true,
+      "applyLinkOrEmail": "https://remotive.io/remote-jobs/software-dev/node-js-backend-developer-241344",
+      "maxSalary": 60000,
+      "tags": [
         {
-            "id": "1",
-            "name": "Nodejs"
+          "id": "4",
+          "name": "Reactjs"
         },
         {
-            "id": "2",
-            "name": "Typescript"
+          "id": "5",
+          "name": "Graphql"
         },
         {
-            "id": "3",
-            "name": "Mongodb"
-        },
-        {
-            "id": "4",
-            "name": "Reactjs"
-        },
-        {
-            "id": "5",
-            "name": "Graphql"
-        },
-        {
-            "id": "6",
-            "name": "React Native"
+          "id": "6",
+          "name": "React Native"
         }
-    ]
+      ],
+      "featureType": 20,
+      "company": {
+        "name": "Knack",
+        "logo": "http://localhost:3000/static/media/fakelogo-2.bb26ffca.png",
+        "website": "http://google.com",
+        "email": "hello2@gmail.com",
+        "description": "We're looking for a nice and brilliant front-end engineer to help us meet the enormous challenges around making it easy to do useful things with data. \n\nThis is a 100% remote role, with a flat culture that gives you the autonomy to define how you can do the best work of your career.\n\n**In this role, you will:**\nWork with Vue and ES6 to build and maintain Knack product features.\nImprove and implement UI through design libraries, accessible markup, and modular CSS.\nPropose and implement architectural approaches for new features and refactoring legacy code.\nImprove the quality and confidence of a complex codebase with tests, audits, and performance metrics.\nCode every day. Although we expect technical and product leadership, this is primarily an executional role.\nBe an inspiring and supportive teammate by participating in PR reviews, pair programming, active feedback, idea generation, teaching, learning, and in general being a delightful human being.\n\n**We’re looking for someone who is:**\nA problem solver. You aren't afraid to go deep, experiment, learn on the fly, and do the work.\nExperienced as a meaningful contributor to a complex front-end architecture at scale.\nAn expert in JavaScript and modern reactive frameworks: preferably Vue, or a desire to leverage React experience to master Vue.\nHumble but opinionated. You have lots of ideas, yet you are happy to shift directions when a better path emerges. You take your work much more seriously than you take yourself.\nProactive and flexible. We're early in our process of building out this team and process. We need someone willing to use the best of their experience to advocate for best practices, but  also open to embracing a bit of chaos along the way.\nAn active collaborator. You want feedback on your work early and often, and you get a kick out of a collaborative process because it challenges you to do better work.\nEngaging beyond 1s and 0s. You understand that empathizing with our customers, building relationships with your co-workers, and going deep on the product makes you a better teammate and a better engineer.\nHungry for meaningful work, and space to do it. Knack is a complex product in a complex space and the work is extremely challenging - but also deeply rewarding. Knack makes a major impact in the work of thousands of companies and organizations.\n\n**Our Stack**\n1. Front-end: *ES6, Vue, Vuex, Vue Router, Webpack*\n2. Components & Design: *Storybook, Atomic design, Saas, Post CSS, CSS Modules*\n3. Testing: *Mocha Unit Tests, Cypress.js, Ghost Inspector*\n4. Back-end: *Node.js, Mongo, SQL, Redis, AWS*\n\n**About Knack**\nKnack makes it easy for anyone to build applications and workflows to make their data useful."
+      }
+    }
+  ],
+  "tags": [
+    {
+      "id": "1",
+      "name": "Nodejs"
+    },
+    {
+      "id": "2",
+      "name": "Typescript"
+    },
+    {
+      "id": "3",
+      "name": "Mongodb"
+    },
+    {
+      "id": "4",
+      "name": "Reactjs"
+    },
+    {
+      "id": "5",
+      "name": "Graphql"
+    },
+    {
+      "id": "6",
+      "name": "React Native"
+    }
+  ]
 }
