@@ -69,6 +69,40 @@
         "description": "Hi, we're **Knack**, a no-code platform used by thousands of customers — from non-profits to the world’s biggest companies — to easily build custom apps, workflows, and databases. \n\nOur customers use Knack to run their processes, departments, or even their entire companies.\n\n> We've been growing steadily since 2012 as we’ve built our team, perfected our product, and nailed our product-market fit.\n\n**So how are we different?**\nWe’re bootstrapped: we’ve had to build something our customers actually pay for. This changes how you do things.\nWe’re 100% remote: and have been from the beginning. Every decision we’ve made has been based around optimizing our remote operations.\nWe’re all a little weird: and we like it that way. We’re more than just chat avatars; we’ve all gotten to know each other, have grown together, and love working with each other.\nWe enjoy the journey: we’re in this for the long haul. We’re not chasing an exit or the next round of funding. We’re building something we’re proud of and want to keep improving on.\n\n**Learn More**\n* [About this role](https://knack.com/careers/frontend-engineer)\n* About our work culture\n* About Knack",
         "hqLocation": "FrankFurt, Germany"
       }
+    },
+    {
+      "id": "3",
+      "dateCreated": "2020-08-11",
+      "title": "React Developer",
+        "description": "We're looking for an experienced React Developer. \n\nThis is a remote role.\n\n**In this role, you will:**\nWork with React, Redux and ES6 to build and maintain Vibes product features.\nImprove and implement UI through design libraries, accessible markup, and modular CSS.\nPropose and implement architectural approaches for new features and refactoring legacy code.",
+      "jobType": 20,
+      "companyHQLocation": "Atlanta, Georgia",
+      "candidateLocation": "Worldwide",
+      "offersRemote": true,
+      "applyLinkOrEmail": "https://remotive.io/remote-jobs/software-dev/node-js-backend-developer-241344",
+      "maxSalary": 60000,
+      "tags": [
+        {
+          "id": "4",
+          "name": "Reactjs"
+        },
+        {
+          "id": "2",
+          "name": "Typescript"
+        },
+        {
+          "id": "6",
+          "name": "React Native"
+        }
+      ],
+      "featureType": 10,
+      "company": {
+        "name": "Knack",
+        "logo": "http://localhost:3000/static/media/fakelogo-3.bb26ffca.png",
+        "website": "http://google.com",
+        "email": "hello3@gmail.com",
+        "description": "Hi, we're **Vibes**, we are purely about making money moves with cool vibes. A no-toxic zone where React fluorishes"
+      }
     }
   ],
   "tags": [
