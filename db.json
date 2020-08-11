@@ -97,8 +97,8 @@
       ],
       "featureType": 10,
       "company": {
-        "name": "Knack",
-        "logo": "http://localhost:3000/static/media/fakelogo-3.bb26ffca.png",
+        "name": "Vibes",
+        "logo": "https://create-react-app.dev/img/logo-og.png",
         "website": "http://google.com",
         "email": "hello3@gmail.com",
         "description": "Hi, we're **Vibes**, we are purely about making money moves with cool vibes. A no-toxic zone where React fluorishes"
