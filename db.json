@@ -103,7 +103,109 @@
         "email": "hello3@gmail.com",
         "description": "Hi, we're **Vibes**, we are purely about making money moves with cool vibes. A no-toxic zone where React fluorishes"
       }
-    }
+    },
+    {
+      "id": "4",
+      "dateCreated": "2020-08-12",
+      "title": "React Developer",
+        "description": "We're looking for an experienced React Developer. \n\nThis is a remote role.\n\n**In this role, you will:**\nWork with React, Redux and ES6 to build and maintain Vibes product features.\nImprove and implement UI through design libraries, accessible markup, and modular CSS.\nPropose and implement architectural approaches for new features and refactoring legacy code.",
+      "jobType": 20,
+      "companyHQLocation": "Dallas, Texas",
+      "candidateLocation": "Worldwide",
+      "offersRemote": true,
+      "applyLinkOrEmail": "https://remotive.io/remote-jobs/software-dev/node-js-backend-developer-241344",
+      "maxSalary": 60000,
+      "tags": [
+        {
+          "id": "4",
+          "name": "Reactjs"
+        },
+        {
+          "id": "2",
+          "name": "Typescript"
+        },
+        {
+          "id": "6",
+          "name": "React Native"
+        }
+      ],
+      "featureType": 10,
+      "company": {
+        "name": "Knack",
+        "logo": "http://localhost:3000/static/media/fakelogo-3.bb26ffca.png",
+        "website": "http://google.com",
+        "email": "hello3@gmail.com",
+        "description": "Hi, we're **Vibes**, we are purely about making money moves with cool vibes. A no-toxic zone where React fluorishes"
+      }
+    },
+    {
+      "id": "5",
+      "dateCreated": "2020-08-11",
+      "title": "React Developer",
+        "description": "We're looking for an experienced React Developer. \n\nThis is a remote role.\n\n**In this role, you will:**\nWork with React, Redux and ES6 to build and maintain Vibes product features.\nImprove and implement UI through design libraries, accessible markup, and modular CSS.\nPropose and implement architectural approaches for new features and refactoring legacy code.",
+      "jobType": 20,
+      "companyHQLocation": "Atlanta, Georgia",
+      "candidateLocation": "Worldwide",
+      "offersRemote": true,
+      "applyLinkOrEmail": "https://remotive.io/remote-jobs/software-dev/node-js-backend-developer-241344",
+      "maxSalary": 60000,
+      "tags": [
+        {
+          "id": "4",
+          "name": "Reactjs"
+        },
+        {
+          "id": "2",
+          "name": "Typescript"
+        },
+        {
+          "id": "6",
+          "name": "React Native"
+        }
+      ],
+      "featureType": 10,
+      "company": {
+        "name": "Knack",
+        "logo": "http://localhost:3000/static/media/fakelogo-3.bb26ffca.png",
+        "website": "http://google.com",
+        "email": "hello3@gmail.com",
+        "description": "Hi, we're **Vibes**, we are purely about making money moves with cool vibes. A no-toxic zone where React fluorishes"
+      }
+    },
+    {
+      "id": "6",
+      "dateCreated": "2020-08-11",
+      "title": "React Developer",
+        "description": "We're looking for an experienced React Developer. \n\nThis is a remote role.\n\n**In this role, you will:**\nWork with React, Redux and ES6 to build and maintain Vibes product features.\nImprove and implement UI through design libraries, accessible markup, and modular CSS.\nPropose and implement architectural approaches for new features and refactoring legacy code.",
+      "jobType": 20,
+      "companyHQLocation": "Atlanta, Georgia",
+      "candidateLocation": "Worldwide",
+      "offersRemote": true,
+      "applyLinkOrEmail": "https://remotive.io/remote-jobs/software-dev/node-js-backend-developer-241344",
+      "maxSalary": 60000,
+      "tags": [
+        {
+          "id": "4",
+          "name": "Reactjs"
+        },
+        {
+          "id": "2",
+          "name": "Typescript"
+        },
+        {
+          "id": "6",
+          "name": "React Native"
+        }
+      ],
+      "featureType": 10,
+      "company": {
+        "name": "Knack",
+        "logo": "http://localhost:3000/static/media/fakelogo-3.bb26ffca.png",
+        "website": "http://google.com",
+        "email": "hello3@gmail.com",
+        "description": "Hi, we're **Vibes**, we are purely about making money moves with cool vibes. A no-toxic zone where React fluorishes"
+      }
+    },
   ],
   "tags": [
     {
