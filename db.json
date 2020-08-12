@@ -106,7 +106,7 @@
     },
     {
       "id": "4",
-      "dateCreated": "2020-08-12",
+      "dateCreated": "2020-08-7",
       "title": "React Developer",
         "description": "We're looking for an experienced React Developer. \n\nThis is a remote role.\n\n**In this role, you will:**\nWork with React, Redux and ES6 to build and maintain Vibes product features.\nImprove and implement UI through design libraries, accessible markup, and modular CSS.\nPropose and implement architectural approaches for new features and refactoring legacy code.",
       "jobType": 20,
@@ -131,20 +131,20 @@
       ],
       "featureType": 10,
       "company": {
-        "name": "Knack",
-        "logo": "http://localhost:3000/static/media/fakelogo-3.bb26ffca.png",
+        "name": "Fleet",
+        "logo": "https://create-react-app.dev/img/logo-og.png",
         "website": "http://google.com",
         "email": "hello3@gmail.com",
-        "description": "Hi, we're **Vibes**, we are purely about making money moves with cool vibes. A no-toxic zone where React fluorishes"
+        "description": "Hi, we're **Fleet**, we are purely about making money moves with cool vibes. A no-toxic zone where React fluorishes"
       }
     },
     {
       "id": "5",
-      "dateCreated": "2020-08-11",
+      "dateCreated": "2020-07-30",
       "title": "React Developer",
         "description": "We're looking for an experienced React Developer. \n\nThis is a remote role.\n\n**In this role, you will:**\nWork with React, Redux and ES6 to build and maintain Vibes product features.\nImprove and implement UI through design libraries, accessible markup, and modular CSS.\nPropose and implement architectural approaches for new features and refactoring legacy code.",
       "jobType": 20,
-      "companyHQLocation": "Atlanta, Georgia",
+      "companyHQLocation": "Chicago, Illinois",
       "candidateLocation": "Worldwide",
       "offersRemote": true,
       "applyLinkOrEmail": "https://remotive.io/remote-jobs/software-dev/node-js-backend-developer-241344",
@@ -165,23 +165,23 @@
       ],
       "featureType": 10,
       "company": {
-        "name": "Knack",
-        "logo": "http://localhost:3000/static/media/fakelogo-3.bb26ffca.png",
+        "name": "Muse",
+        "logo": "https://create-react-app.dev/img/logo-og.png",
         "website": "http://google.com",
         "email": "hello3@gmail.com",
-        "description": "Hi, we're **Vibes**, we are purely about making money moves with cool vibes. A no-toxic zone where React fluorishes"
+        "description": "Hi, we're **Muse**, we are purely about making money moves with cool vibes. A no-toxic zone where React fluorishes"
       }
     },
     {
       "id": "6",
-      "dateCreated": "2020-08-11",
+      "dateCreated": "2020-08-02",
       "title": "React Developer",
         "description": "We're looking for an experienced React Developer. \n\nThis is a remote role.\n\n**In this role, you will:**\nWork with React, Redux and ES6 to build and maintain Vibes product features.\nImprove and implement UI through design libraries, accessible markup, and modular CSS.\nPropose and implement architectural approaches for new features and refactoring legacy code.",
       "jobType": 20,
-      "companyHQLocation": "Atlanta, Georgia",
+      "companyHQLocation": "Lagos, Nigeria",
       "candidateLocation": "Worldwide",
       "offersRemote": true,
-      "applyLinkOrEmail": "https://remotive.io/remote-jobs/software-dev/node-js-backend-developer-241344",
+      "applyLinkOrEmail": "https://create-react-app.dev/img/logo-og.png",
       "maxSalary": 60000,
       "tags": [
         {
@@ -199,13 +199,13 @@
       ],
       "featureType": 10,
       "company": {
-        "name": "Knack",
+        "name": "Sleek",
         "logo": "http://localhost:3000/static/media/fakelogo-3.bb26ffca.png",
         "website": "http://google.com",
         "email": "hello3@gmail.com",
-        "description": "Hi, we're **Vibes**, we are purely about making money moves with cool vibes. A no-toxic zone where React fluorishes"
+        "description": "Hi, we're **Sleek**, we are purely about making money moves with cool vibes. A no-toxic zone where React fluorishes"
       }
-    },
+    }
   ],
   "tags": [
     {
