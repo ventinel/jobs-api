@@ -60,7 +60,7 @@
             "name": "React Native"
           }
         ],
-        "featureType": 20,
+        "featureType": 200,
         "company": {
           "name": "Knack",
           "logo": "http://localhost:3000/static/media/fakelogo-2.bb26ffca.png",
@@ -95,7 +95,7 @@
             "name": "React Native"
           }
         ],
-        "featureType": 10,
+        "featureType": 100,
         "company": {
           "name": "Vibes",
           "logo": "http://localhost:3000/static/media/fakelogo-4.7ba2bac9.png",
@@ -163,7 +163,7 @@
             "name": "React Native"
           }
         ],
-        "featureType": 10,
+        "featureType": 100,
         "company": {
           "name": "Vibes",
           "logo": "https://create-react-app.dev/img/logo-og.png",
