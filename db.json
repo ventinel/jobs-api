@@ -60,7 +60,7 @@
             "name": "React Native"
           }
         ],
-        "featureType": 200,
+        "featureType": 500,
         "company": {
           "name": "Knack",
           "logo": "http://localhost:3000/static/media/fakelogo-2.bb26ffca.png",
