@@ -163,7 +163,7 @@
             "name": "React Native"
           }
         ],
-        "featureType": 100,
+        "featureType": 200,
         "company": {
           "name": "Vibes",
           "logo": "https://create-react-app.dev/img/logo-og.png",
