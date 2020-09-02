@@ -101,7 +101,8 @@
           "logo": "http://localhost:3000/static/media/fakelogo-4.7ba2bac9.png",
           "website": "http://google.com",
           "email": "hello3@gmail.com",
-          "description": "Hi, we're **Vibes**, we are purely about making money moves with cool vibes. A no-toxic zone where React fluorishes"
+          "description": "Hi, we're **Vibes**, we are purely about making money moves with cool vibes. A no-toxic zone where React fluorishes",
+          "hqLocation": "Turin, Italy"
         }
       },
       {
@@ -135,7 +136,8 @@
           "logo": "http://localhost:3000/static/media/fakelogo-3.1d3d1a1a.png",
           "website": "http://google.com",
           "email": "hello3@gmail.com",
-          "description": "Hi, we're **Vibes**, we are purely about making money moves with cool vibes. A no-toxic zone where React fluorishes"
+          "description": "Hi, we're **Vibes**, we are purely about making money moves with cool vibes. A no-toxic zone where React fluorishes",
+          "hqLocation": "New York, USA"
         }
       },
       {
@@ -169,7 +171,8 @@
           "logo": "https://create-react-app.dev/img/logo-og.png",
           "website": "http://google.com",
           "email": "hello3@gmail.com",
-          "description": "Hi, we're **Vibes**, we are purely about making money moves with cool vibes. A no-toxic zone where React fluorishes"
+          "description": "Hi, we're **Vibes**, we are purely about making money moves with cool vibes. A no-toxic zone where React fluorishes",
+          "hqLocation": "Switzerland"
         }
       }
     ],
