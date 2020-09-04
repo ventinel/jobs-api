@@ -75,7 +75,6 @@
       {
         "id": "3",
         "dateCreated": "2020-08-17",
-        "isPublished": false,
         "title": "React Developer",
           "description": "We're looking for an experienced React Developer. \n\nThis is a remote role.\n\n**In this role, you will:**\nWork with React, Redux and ES6 to build and maintain Vibes product features.\nImprove and implement UI through design libraries, accessible markup, and modular CSS.\nPropose and implement architectural approaches for new features and refactoring legacy code.",
         "jobType": 20,
@@ -111,7 +110,6 @@
       {
         "id": "4",
         "dateCreated": "2020-08-17",
-        "isPublished": false,
         "title": "Electron Engineer",
           "description": "We're looking for an experienced React Developer. \n\nThis is a remote role.\n\n**In this role, you will:**\nWork with React, Redux and ES6 to build and maintain Vibes product features.\nImprove and implement UI through design libraries, accessible markup, and modular CSS.\nPropose and implement architectural approaches for new features and refactoring legacy code.",
         "jobType": 20,
@@ -147,7 +145,6 @@
       {
         "id": "5",
         "dateCreated": "2020-08-01",
-        "isPublished": false,
         "title": "Electron Engineer",
           "description": "We're looking for an experienced Electron Developer. \n\nThis is a remote role.",
         "jobType": 20,
